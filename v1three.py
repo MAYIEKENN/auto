@@ -4,7 +4,7 @@ import json
 import time
 from tqdm import tqdm
 
-API_URL = "https://api.xalyon.xyz/v2/get/?r=1"
+API_URL = "https://api.xalyon.xyz/v2/get/?r=3"
 CLAIM_LIST_URL = "https://store.atom.com.mm/mytmapi/v1/my/point-system/claim-list"
 CLAIM_URL = "https://store.atom.com.mm/mytmapi/v1/my/point-system/claim"
 DASHBOARD_URL = "https://store.atom.com.mm/mytmapi/v1/my/dashboard"
